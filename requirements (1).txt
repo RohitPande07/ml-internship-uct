@@ -1,0 +1,6 @@
+ultralytics>=8.3
+opencv-python>=4.8
+numpy>=1.24
+matplotlib>=3.7
+PyYAML>=6.0
+tensorflow>=2.13   # only needed for src/augment.py (Keras ImageDataGenerator)
